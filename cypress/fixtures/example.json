@@ -1,0 +1,20 @@
+{
+  "register":{
+    "name": "Miroslav",
+    "email":"lepotestime@gmail.com",
+    "phoneNumber":"1234567890"
+  },
+  "notificationMessages": {
+    "registeredUser":"User:Register failed. Account found with same email",
+    "successfulRegistration": "Registration successful. You will receive activation email shortly",
+    "errorNameMessage": "Name must have at least one character.",
+    "errorEmailMessage": "Email is required",
+    "errorPhoneMessage": "Phone is required",
+    "errorAgreeTermsMessage": "You must agree with our Terms & Conditions and privacy and cookies policy",
+    "errorSubmitEmptyFields": "Please enter your data.",
+    "registeredUserPhone": "User:Register failed. Account found with same phone",
+    "errorInvalidPhoneNumber": "Phone is not valid",
+    "errorInvalidEmail": "Email is not valid",
+    "registerFailed":"Failed to register user"
+  }
+}
